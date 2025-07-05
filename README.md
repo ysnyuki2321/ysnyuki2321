@@ -1,16 +1,36 @@
-## Hi there 👋
+# こんにちは、吉野ゆき です 🌸
 
-<!--
-**ysnyuki2321/ysnyuki2321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨️ Hey there! I’m **Yuki** (`ysnyuki2321`).
 
-Here are some ideas to get you started:
+- 🗾 Living life close to Japan — culturally & digitally.
+- 💻 Passionate about systems, automation, and scaling things smartly.
+- 📚 Dive deep into architectures, cloud, and robust design — because I enjoy seeing how everything fits together.
+- 🎮 音ゲー（プロセカ）とボカロが大好き。
+- 📝 日本語のコンテンツにどっぷり。いつでも返事するので、気軽にDiscordでDMしてね！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 What I like to build
+
+- Tiny bots & tools that make life easier.
+- Scripts to automate repetitive nonsense.
+- Private infra playgrounds to test out ideas.
+- And sometimes, just breaking things for fun to see how they fail.
+
+---
+
+## 📊 Stats & Activity
+
+![Yuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysnyuki2321&show_icons=true&theme=tokyonight&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysnyuki2321&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- 📧 [ysnyuki2321@outlook.jp](mailto:ysnyuki2321@outlook.jp)
+- 💬 Discord: `ysnyuki2321`
+
+---
+
+またね 🌸

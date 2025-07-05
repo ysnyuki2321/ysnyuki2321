@@ -2,7 +2,7 @@
 
 ✨️ Hey there! I’m **Yuki** (`ysnyuki2321`).
 
-- 🗾 Currentlt living in Japan.
+- 🗾 Currently living in Japan.
 - 💻 Passionate about systems, automation, and scaling things smartly.
 - 📚 Dive deep into architectures, cloud, and robust design — because I enjoy seeing how everything fits together.
 - 🎮 音ゲー（プロセカ）とボカロが大好き。
@@ -29,6 +29,7 @@
 ## 📫 Contact
 
 - 📧 [ysnyuki2321@outlook.jp](mailto:ysnyuki2321@outlook.jp)
+- 🔗 Bio: https://zyo.lol/ysnyuki2321 
 - 💬 Discord: `ysnyuki2321`
 
 ---

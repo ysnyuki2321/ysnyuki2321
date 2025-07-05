@@ -29,7 +29,7 @@
 ## 📫 Contact
 
 - 📧 [ysnyuki2321@outlook.jp](mailto:ysnyuki2321@outlook.jp)
-- 🔗 Bio: https://zyo.lol/ysnyuki2321 
+- 🔗 https://zyo.lol/ysnyuki2321 
 - 💬 Discord: `ysnyuki2321`
 
 ---

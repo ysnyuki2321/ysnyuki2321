@@ -2,7 +2,7 @@
 
 ✨️ Hey there! I’m **Yuki** (`ysnyuki2321`).
 
-- 🗾 Living life close to Japan — culturally & digitally.
+- 🗾 Currentlt living in Japan.
 - 💻 Passionate about systems, automation, and scaling things smartly.
 - 📚 Dive deep into architectures, cloud, and robust design — because I enjoy seeing how everything fits together.
 - 🎮 音ゲー（プロセカ）とボカロが大好き。
@@ -12,7 +12,7 @@
 
 ## 💡 What I like to build
 
-- Tiny bots & tools that make life easier.
+- Some bots & tools that help customize things
 - Scripts to automate repetitive nonsense.
 - Private infra playgrounds to test out ideas.
 - And sometimes, just breaking things for fun to see how they fail.
